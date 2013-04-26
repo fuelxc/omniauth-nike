@@ -1,4 +1,0 @@
-omniauth-nike
-=============
-
-omniauth-nike
