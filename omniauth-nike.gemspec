@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Omniauth::Nike::VERSION
   spec.authors       = ["Mike Ni"]
   spec.email         = ["michaelcni@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{A Nike oauth2 strategy for OmniAuth 1.0}
+  spec.summary       = %q{A Nike oauth2 strategy for OmniAuth 1.0}
   spec.homepage      = ""
   spec.license       = "MIT"
 
